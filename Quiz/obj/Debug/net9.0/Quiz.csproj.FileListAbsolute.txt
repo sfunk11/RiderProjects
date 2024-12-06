@@ -1,0 +1,15 @@
+/Users/sam/RiderProjects/Quiz/bin/Debug/net9.0/Quiz
+/Users/sam/RiderProjects/Quiz/bin/Debug/net9.0/Quiz.deps.json
+/Users/sam/RiderProjects/Quiz/bin/Debug/net9.0/Quiz.runtimeconfig.json
+/Users/sam/RiderProjects/Quiz/bin/Debug/net9.0/Quiz.dll
+/Users/sam/RiderProjects/Quiz/bin/Debug/net9.0/Quiz.pdb
+/Users/sam/RiderProjects/Quiz/obj/Debug/net9.0/Quiz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sam/RiderProjects/Quiz/obj/Debug/net9.0/Quiz.AssemblyInfoInputs.cache
+/Users/sam/RiderProjects/Quiz/obj/Debug/net9.0/Quiz.AssemblyInfo.cs
+/Users/sam/RiderProjects/Quiz/obj/Debug/net9.0/Quiz.csproj.CoreCompileInputs.cache
+/Users/sam/RiderProjects/Quiz/obj/Debug/net9.0/Quiz.sourcelink.json
+/Users/sam/RiderProjects/Quiz/obj/Debug/net9.0/Quiz.dll
+/Users/sam/RiderProjects/Quiz/obj/Debug/net9.0/refint/Quiz.dll
+/Users/sam/RiderProjects/Quiz/obj/Debug/net9.0/Quiz.pdb
+/Users/sam/RiderProjects/Quiz/obj/Debug/net9.0/Quiz.genruntimeconfig.cache
+/Users/sam/RiderProjects/Quiz/obj/Debug/net9.0/ref/Quiz.dll

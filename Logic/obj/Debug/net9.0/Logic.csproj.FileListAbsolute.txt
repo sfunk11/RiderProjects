@@ -1,0 +1,15 @@
+/Users/sam/RiderProjects/Logic/bin/Debug/net9.0/Logic
+/Users/sam/RiderProjects/Logic/bin/Debug/net9.0/Logic.deps.json
+/Users/sam/RiderProjects/Logic/bin/Debug/net9.0/Logic.runtimeconfig.json
+/Users/sam/RiderProjects/Logic/bin/Debug/net9.0/Logic.dll
+/Users/sam/RiderProjects/Logic/bin/Debug/net9.0/Logic.pdb
+/Users/sam/RiderProjects/Logic/obj/Debug/net9.0/Logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sam/RiderProjects/Logic/obj/Debug/net9.0/Logic.AssemblyInfoInputs.cache
+/Users/sam/RiderProjects/Logic/obj/Debug/net9.0/Logic.AssemblyInfo.cs
+/Users/sam/RiderProjects/Logic/obj/Debug/net9.0/Logic.csproj.CoreCompileInputs.cache
+/Users/sam/RiderProjects/Logic/obj/Debug/net9.0/Logic.sourcelink.json
+/Users/sam/RiderProjects/Logic/obj/Debug/net9.0/Logic.dll
+/Users/sam/RiderProjects/Logic/obj/Debug/net9.0/refint/Logic.dll
+/Users/sam/RiderProjects/Logic/obj/Debug/net9.0/Logic.pdb
+/Users/sam/RiderProjects/Logic/obj/Debug/net9.0/Logic.genruntimeconfig.cache
+/Users/sam/RiderProjects/Logic/obj/Debug/net9.0/ref/Logic.dll
