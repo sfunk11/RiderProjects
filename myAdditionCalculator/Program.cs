@@ -1,14 +1,13 @@
-﻿//Simple program to add two user generated integers.
+﻿//Simple program to add two user generated numbers..
+
 
 Console.WriteLine("Enter a number:");
-
-int  firstNumber = int.Parse(Console.ReadLine());
-
+double firstNumber = double.Parse(Console.ReadLine());
 Console.WriteLine("You entered " + firstNumber);
 Console.WriteLine("Enter another number: ");
-int secondNumber = int.Parse(Console.ReadLine());
+double secondNumber = double.Parse(Console.ReadLine());
 Console.WriteLine("You entered " + secondNumber);
-int sum = firstNumber + secondNumber;
+double sum = firstNumber + secondNumber;
 Console.WriteLine($"{firstNumber} plus {secondNumber} equals {sum}.");
 
 Console.ReadKey();
