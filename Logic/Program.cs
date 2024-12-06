@@ -31,15 +31,24 @@ Console.WriteLine("A OK");
 
 //Relational logic
 
-int age = 13;
+int age = 16;
+bool isWithParents = true;
 
-if (age >= 18)
+if (age > 13 && isWithParents)
+{
+    Console.WriteLine("Go party!");
+}
+else if(age >= 18)
 {
     Console.WriteLine("Go Party!");
 }
+else if (age > 6)
+{
+    Console.WriteLine("Go to School");
+}
 else
 {
-    Console.WriteLine("No club for you!");
+    Console.WriteLine("Go party in Kindergsrten");
 }
 
 
