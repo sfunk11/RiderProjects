@@ -30,18 +30,26 @@ if (isRainy && !hasUmbrella)
 Console.WriteLine("A OK");
 
 //Relational logic
-
-int age = 16;
+Console.WriteLine("What is your age?");
+int age = int.Parse(Console.ReadLine());
 bool isWithParents = true;
 
-if (age > 13 && isWithParents)
-{
-    Console.WriteLine("Go party!");
-}
-else if(age >= 18)
+if (age >= 18)
 {
     Console.WriteLine("Go Party!");
-}
+}else if (age >= 13)
+    {
+        Console.WriteLine("Are you with your parent? Y or N");
+        string isWithParentString = Console.ReadLine();
+        if (isWithParentString == "Y")
+        {
+            Console.WriteLine("Go party!");
+        }
+        else
+        {
+            Console.WriteLine("No party for you!");
+        }
+    }
 else if (age > 6)
 {
     Console.WriteLine("Go to School");
