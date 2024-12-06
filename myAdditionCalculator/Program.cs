@@ -2,16 +2,13 @@
 
 Console.WriteLine("Enter a number:");
 
-string firstNumber = Console.ReadLine();
+int  firstNumber = int.Parse(Console.ReadLine());
 
 Console.WriteLine("You entered " + firstNumber);
 Console.WriteLine("Enter another number: ");
-string secondNumber = Console.ReadLine();
+int secondNumber = int.Parse(Console.ReadLine());
 Console.WriteLine("You entered " + secondNumber);
-
-int firstNumberAsInt = int.Parse(firstNumber);
-int secondNumberAsInt = int.Parse(secondNumber);
-int result = firstNumberAsInt + secondNumberAsInt;
-Console.WriteLine($"{firstNumber} plus {secondNumber} equals {result}.");
+int sum = firstNumber + secondNumber;
+Console.WriteLine($"{firstNumber} plus {secondNumber} equals {sum}.");
 
 Console.ReadKey();

@@ -12,3 +12,4 @@
 /Users/sam/RiderProjects/myAdditionCalculator/obj/Debug/net9.0/myAdditionCalculator.pdb
 /Users/sam/RiderProjects/myAdditionCalculator/obj/Debug/net9.0/myAdditionCalculator.genruntimeconfig.cache
 /Users/sam/RiderProjects/myAdditionCalculator/obj/Debug/net9.0/ref/myAdditionCalculator.dll
+/Users/sam/RiderProjects/myAdditionCalculator/obj/Debug/net9.0/myAdditionCalculator.sourcelink.json
