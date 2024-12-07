@@ -37,26 +37,58 @@
 // Console.WriteLine("All done!");
 //
 
-// guess a number app
-Random random = new Random();
-int number = random.Next(1, 101);
-int userGuess = 0;
+// // guess a number app
+// Random random = new Random();
+// int number = random.Next(1, 101);
+// int userGuess = 0;
+// int counter = 0;
+// while (userGuess != number)
+// {
+//     Console.WriteLine("Guess a number between 1 and 100:");
+//     userGuess = int.Parse(Console.ReadLine());
+//
+//     if (userGuess > number)
+//     {
+//         Console.WriteLine("Too high, try again.");
+//     }
+//     else
+//     {
+//         Console.WriteLine("Too low, try again.");
+//     }
+//
+//     counter++;
+// }
+//
+// Console.WriteLine($"You guessed the number correctly! It took you {counter} tries.");
+
+
+// Average calculator
+
+int currentScore;
+double sum = 0;
 int counter = 0;
-while (userGuess != number)
+
+do
 {
-    Console.WriteLine("Guess a number between 1 and 100:");
-    userGuess = int.Parse(Console.ReadLine());
-
-    if (userGuess > number)
+    Console.WriteLine(("Enter a number.  To finish and calculate the average of entered numbers, enter -1."));
+    currentScore = int.Parse(Console.ReadLine());
+    if (currentScore != -1)
     {
-        Console.WriteLine("Too high, try again.");
-    }
-    else
-    {
-        Console.WriteLine("Too low, try again.");
-    }
-
+    sum += currentScore;
     counter++;
+    }
+} while (currentScore != -1) ;
+
+if (counter != 0)
+{
+    double average = sum / counter;
+    average = Math.Round(average, 2);
+    Console.WriteLine("The average is {0}.", average);
+}
+else
+{
+    Console.WriteLine("I can't calculate the average of nothing.");
 }
 
-Console.WriteLine($"You guessed the number correctly! It took you {counter} tries.");
+
+
