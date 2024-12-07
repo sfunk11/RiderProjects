@@ -15,7 +15,10 @@ if (isNumber)
 }
 else
 {
-    Console.WriteLine("You did not enter a number.  Your number is 0");
+    Random random = new Random();
+    firstNumber = random.NextDouble();
+    Math.Round(firstNumber, 2);
+    Console.WriteLine($"You did not enter a number.  Your number is {firstNumber}");
 }
 
 Console.WriteLine("Enter another number: ");
@@ -25,12 +28,15 @@ isNumber = double.TryParse(inputString, out secondNumber);
 
 if (isNumber)
 {
-    Console.WriteLine($"You entered {firstNumber}");
+    Console.WriteLine($"You entered {secondNumber}");
     isNumber = false;
 }
 else
 {
-    Console.WriteLine("You did not enter a number.  Your number is 0");
+    Random random = new Random();
+    secondNumber = random.NextDouble();
+    Math.Round(secondNumber,2);
+    Console.WriteLine($"You did not enter a number.  Your number is {secondNumber}");
 }
 
 double sum = firstNumber + secondNumber;
