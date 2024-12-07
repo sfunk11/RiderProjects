@@ -1,0 +1,15 @@
+/Users/sam/RiderProjects/LoopAdventureGame/bin/Debug/net9.0/LoopAdventureGame
+/Users/sam/RiderProjects/LoopAdventureGame/bin/Debug/net9.0/LoopAdventureGame.deps.json
+/Users/sam/RiderProjects/LoopAdventureGame/bin/Debug/net9.0/LoopAdventureGame.runtimeconfig.json
+/Users/sam/RiderProjects/LoopAdventureGame/bin/Debug/net9.0/LoopAdventureGame.dll
+/Users/sam/RiderProjects/LoopAdventureGame/bin/Debug/net9.0/LoopAdventureGame.pdb
+/Users/sam/RiderProjects/LoopAdventureGame/obj/Debug/net9.0/LoopAdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sam/RiderProjects/LoopAdventureGame/obj/Debug/net9.0/LoopAdventureGame.AssemblyInfoInputs.cache
+/Users/sam/RiderProjects/LoopAdventureGame/obj/Debug/net9.0/LoopAdventureGame.AssemblyInfo.cs
+/Users/sam/RiderProjects/LoopAdventureGame/obj/Debug/net9.0/LoopAdventureGame.csproj.CoreCompileInputs.cache
+/Users/sam/RiderProjects/LoopAdventureGame/obj/Debug/net9.0/LoopAdventureGame.sourcelink.json
+/Users/sam/RiderProjects/LoopAdventureGame/obj/Debug/net9.0/LoopAdventureGame.dll
+/Users/sam/RiderProjects/LoopAdventureGame/obj/Debug/net9.0/refint/LoopAdventureGame.dll
+/Users/sam/RiderProjects/LoopAdventureGame/obj/Debug/net9.0/LoopAdventureGame.pdb
+/Users/sam/RiderProjects/LoopAdventureGame/obj/Debug/net9.0/LoopAdventureGame.genruntimeconfig.cache
+/Users/sam/RiderProjects/LoopAdventureGame/obj/Debug/net9.0/ref/LoopAdventureGame.dll
