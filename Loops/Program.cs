@@ -61,7 +61,7 @@
 //
 // Console.WriteLine($"You guessed the number correctly! It took you {counter} tries.");
 
-
+/*
 // Average calculator
 
 int currentScore;
@@ -88,6 +88,24 @@ if (counter != 0)
 else
 {
     Console.WriteLine("I can't calculate the average of nothing.");
+}
+
+*/
+// For Each loops
+
+string[] weekdays = { "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" };
+
+foreach (string day in weekdays)
+{
+    Console.WriteLine(day);
+
+}
+
+int[,] array2D = { { 1, 2 }, { 3, 4 } };
+foreach ( int item in array2D)
+{
+    Console.WriteLine(item);
+
 }
 
 
