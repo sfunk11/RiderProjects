@@ -23,8 +23,23 @@ class Program
       {
           temperatures[i] = random.Next(-10,100);
           weatherConditions[i] = conditions[random.Next(conditions.Length)];
-          Console.WriteLine($"Temperature: {temperatures[i]} and Condition: {weatherConditions[i]}");
+          Console.WriteLine($"Temperature: {temperatures[i]} degrees and Condition: {weatherConditions[i]}");
+
       }
+
+      Console.WriteLine($"The average temperature was {GetAverageTemperature(temperatures)} degrees");
       
     }
+
+    static double GetAverageTemperature(int[] temperatures)
+    {
+        double sum = 0;
+        foreach (int temp in temperatures)
+        {
+            sum += temp;
+        }
+        return sum / temperatures.Length;
+    }
+    
+    static double 
 }
