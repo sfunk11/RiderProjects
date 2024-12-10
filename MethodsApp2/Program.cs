@@ -18,7 +18,7 @@ internal class Program
         Console.WriteLine("This method writes the sum of " + sum);
     }
 
-    int AddTwoValuesAndReturn(int value1, int value2)
+    static int AddTwoValuesAndReturn(int value1, int value2)
     {
         int sum = value1 + value2;
         return sum;
