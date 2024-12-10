@@ -1,0 +1,15 @@
+/Users/sam/RiderProjects/WeatherStationSimulator/bin/Debug/net9.0/WeatherStationSimulator
+/Users/sam/RiderProjects/WeatherStationSimulator/bin/Debug/net9.0/WeatherStationSimulator.deps.json
+/Users/sam/RiderProjects/WeatherStationSimulator/bin/Debug/net9.0/WeatherStationSimulator.runtimeconfig.json
+/Users/sam/RiderProjects/WeatherStationSimulator/bin/Debug/net9.0/WeatherStationSimulator.dll
+/Users/sam/RiderProjects/WeatherStationSimulator/bin/Debug/net9.0/WeatherStationSimulator.pdb
+/Users/sam/RiderProjects/WeatherStationSimulator/obj/Debug/net9.0/WeatherStationSimulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sam/RiderProjects/WeatherStationSimulator/obj/Debug/net9.0/WeatherStationSimulator.AssemblyInfoInputs.cache
+/Users/sam/RiderProjects/WeatherStationSimulator/obj/Debug/net9.0/WeatherStationSimulator.AssemblyInfo.cs
+/Users/sam/RiderProjects/WeatherStationSimulator/obj/Debug/net9.0/WeatherStationSimulator.csproj.CoreCompileInputs.cache
+/Users/sam/RiderProjects/WeatherStationSimulator/obj/Debug/net9.0/WeatherStationSimulator.sourcelink.json
+/Users/sam/RiderProjects/WeatherStationSimulator/obj/Debug/net9.0/WeatherStationSimulator.dll
+/Users/sam/RiderProjects/WeatherStationSimulator/obj/Debug/net9.0/refint/WeatherStationSimulator.dll
+/Users/sam/RiderProjects/WeatherStationSimulator/obj/Debug/net9.0/WeatherStationSimulator.pdb
+/Users/sam/RiderProjects/WeatherStationSimulator/obj/Debug/net9.0/WeatherStationSimulator.genruntimeconfig.cache
+/Users/sam/RiderProjects/WeatherStationSimulator/obj/Debug/net9.0/ref/WeatherStationSimulator.dll
