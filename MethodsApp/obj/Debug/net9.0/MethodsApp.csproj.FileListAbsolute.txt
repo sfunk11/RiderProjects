@@ -1,0 +1,15 @@
+/Users/sam/RiderProjects/MethodsApp/bin/Debug/net9.0/MethodsApp
+/Users/sam/RiderProjects/MethodsApp/bin/Debug/net9.0/MethodsApp.deps.json
+/Users/sam/RiderProjects/MethodsApp/bin/Debug/net9.0/MethodsApp.runtimeconfig.json
+/Users/sam/RiderProjects/MethodsApp/bin/Debug/net9.0/MethodsApp.dll
+/Users/sam/RiderProjects/MethodsApp/bin/Debug/net9.0/MethodsApp.pdb
+/Users/sam/RiderProjects/MethodsApp/obj/Debug/net9.0/MethodsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sam/RiderProjects/MethodsApp/obj/Debug/net9.0/MethodsApp.AssemblyInfoInputs.cache
+/Users/sam/RiderProjects/MethodsApp/obj/Debug/net9.0/MethodsApp.AssemblyInfo.cs
+/Users/sam/RiderProjects/MethodsApp/obj/Debug/net9.0/MethodsApp.csproj.CoreCompileInputs.cache
+/Users/sam/RiderProjects/MethodsApp/obj/Debug/net9.0/MethodsApp.sourcelink.json
+/Users/sam/RiderProjects/MethodsApp/obj/Debug/net9.0/MethodsApp.dll
+/Users/sam/RiderProjects/MethodsApp/obj/Debug/net9.0/refint/MethodsApp.dll
+/Users/sam/RiderProjects/MethodsApp/obj/Debug/net9.0/MethodsApp.pdb
+/Users/sam/RiderProjects/MethodsApp/obj/Debug/net9.0/MethodsApp.genruntimeconfig.cache
+/Users/sam/RiderProjects/MethodsApp/obj/Debug/net9.0/ref/MethodsApp.dll
