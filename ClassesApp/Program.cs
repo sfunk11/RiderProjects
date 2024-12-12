@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Car audi = new Car("audi", "a7");
-        Car bmw = new Car("bmw", "z3");
+        Car audi = new Car("audi", "a7",true);
+        Car bmw = new Car("bmw", "z3", false);
     }
 }

@@ -31,7 +31,8 @@ internal class Car
             if (IsLuxury)
             {
                 return _model + " Luxury Edition";
-            }   
+            } 
+            return _model;
         }
         set => _model = value ?? throw new ArgumentNullException(nameof(value));
     }
