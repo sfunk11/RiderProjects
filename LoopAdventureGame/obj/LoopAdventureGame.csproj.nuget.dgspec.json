@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sam/RiderProjects/LoopAdventureGame/LoopAdventureGame.csproj": {}
+    "/Users/sam/projects/RiderProjects/LoopAdventureGame/LoopAdventureGame.csproj": {}
   },
   "projects": {
-    "/Users/sam/RiderProjects/LoopAdventureGame/LoopAdventureGame.csproj": {
+    "/Users/sam/projects/RiderProjects/LoopAdventureGame/LoopAdventureGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sam/RiderProjects/LoopAdventureGame/LoopAdventureGame.csproj",
+        "projectUniqueName": "/Users/sam/projects/RiderProjects/LoopAdventureGame/LoopAdventureGame.csproj",
         "projectName": "LoopAdventureGame",
-        "projectPath": "/Users/sam/RiderProjects/LoopAdventureGame/LoopAdventureGame.csproj",
+        "projectPath": "/Users/sam/projects/RiderProjects/LoopAdventureGame/LoopAdventureGame.csproj",
         "packagesPath": "/Users/sam/.nuget/packages/",
-        "outputPath": "/Users/sam/RiderProjects/LoopAdventureGame/obj/",
+        "outputPath": "/Users/sam/projects/RiderProjects/LoopAdventureGame/obj/",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
