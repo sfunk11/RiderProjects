@@ -1,0 +1,15 @@
+/Users/sam/RiderProjects/ClassesApp/bin/Debug/net9.0/ClassesApp
+/Users/sam/RiderProjects/ClassesApp/bin/Debug/net9.0/ClassesApp.deps.json
+/Users/sam/RiderProjects/ClassesApp/bin/Debug/net9.0/ClassesApp.runtimeconfig.json
+/Users/sam/RiderProjects/ClassesApp/bin/Debug/net9.0/ClassesApp.dll
+/Users/sam/RiderProjects/ClassesApp/bin/Debug/net9.0/ClassesApp.pdb
+/Users/sam/RiderProjects/ClassesApp/obj/Debug/net9.0/ClassesApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sam/RiderProjects/ClassesApp/obj/Debug/net9.0/ClassesApp.AssemblyInfoInputs.cache
+/Users/sam/RiderProjects/ClassesApp/obj/Debug/net9.0/ClassesApp.AssemblyInfo.cs
+/Users/sam/RiderProjects/ClassesApp/obj/Debug/net9.0/ClassesApp.csproj.CoreCompileInputs.cache
+/Users/sam/RiderProjects/ClassesApp/obj/Debug/net9.0/ClassesApp.sourcelink.json
+/Users/sam/RiderProjects/ClassesApp/obj/Debug/net9.0/ClassesApp.dll
+/Users/sam/RiderProjects/ClassesApp/obj/Debug/net9.0/refint/ClassesApp.dll
+/Users/sam/RiderProjects/ClassesApp/obj/Debug/net9.0/ClassesApp.pdb
+/Users/sam/RiderProjects/ClassesApp/obj/Debug/net9.0/ClassesApp.genruntimeconfig.cache
+/Users/sam/RiderProjects/ClassesApp/obj/Debug/net9.0/ref/ClassesApp.dll

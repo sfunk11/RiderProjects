@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsApp2", "MethodsApp2.csproj", "{FF8C862F-CBB8-4BD7-9CA8-8526FFDFA7F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF8C862F-CBB8-4BD7-9CA8-8526FFDFA7F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF8C862F-CBB8-4BD7-9CA8-8526FFDFA7F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF8C862F-CBB8-4BD7-9CA8-8526FFDFA7F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF8C862F-CBB8-4BD7-9CA8-8526FFDFA7F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
