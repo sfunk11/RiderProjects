@@ -8,22 +8,33 @@ internal class Customer
     
     //custom constructor
 
-    public Customer(string name, string address, string contactNumber)
+    public Customer(string name = "N/A", string address = "N/A", string contactNumber = "N/A")
     {
         Name = name;
         Address = address;
         ContactNumber = contactNumber;
     }
 
-    public Customer(string name)
+    // unnecessary constructors
+    
+    // public Customer(string name)
+    // {
+    //     Name = name;
+    // }
+
+    // public Customer()
+    // {
+    //     Name = "default";
+    //     Address = "default";
+    //     ContactNumber = "default";
+    // }
+
+    public void SetDetails(string name, string address, string contactNumber)
     {
         Name = name;
+        Address = address;
+        ContactNumber = contactNumber;
+        
     }
-
-    public Customer()
-    {
-        Name = "default";
-        Address = "default";
-        ContactNumber = "default";
-    }
+    
 }
