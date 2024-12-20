@@ -48,4 +48,10 @@ internal class Car
         get => _isLuxury;
         
     }
+
+    public void Drive()
+    {
+        Console.WriteLine($"{Make} {Model} is driving");
+    }
+    
 }

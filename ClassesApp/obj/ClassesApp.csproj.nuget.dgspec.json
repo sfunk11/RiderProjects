@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sam/RiderProjects/ClassesApp/ClassesApp.csproj": {}
+    "/Users/sam/projects/RiderProjects/ClassesApp/ClassesApp.csproj": {}
   },
   "projects": {
-    "/Users/sam/RiderProjects/ClassesApp/ClassesApp.csproj": {
+    "/Users/sam/projects/RiderProjects/ClassesApp/ClassesApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sam/RiderProjects/ClassesApp/ClassesApp.csproj",
+        "projectUniqueName": "/Users/sam/projects/RiderProjects/ClassesApp/ClassesApp.csproj",
         "projectName": "ClassesApp",
-        "projectPath": "/Users/sam/RiderProjects/ClassesApp/ClassesApp.csproj",
+        "projectPath": "/Users/sam/projects/RiderProjects/ClassesApp/ClassesApp.csproj",
         "packagesPath": "/Users/sam/.nuget/packages/",
-        "outputPath": "/Users/sam/RiderProjects/ClassesApp/obj/",
+        "outputPath": "/Users/sam/projects/RiderProjects/ClassesApp/obj/",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
