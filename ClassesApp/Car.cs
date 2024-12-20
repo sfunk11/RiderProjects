@@ -7,6 +7,7 @@ internal class Car
     private string _model = "";
     private string _make = "";
     private bool _isLuxury = false;
+    public static int NumberOfCars = 0;
     
     //Constructor
     
@@ -17,6 +18,7 @@ internal class Car
 
     public Car( string make, string model, bool luxury)
     {
+        NumberOfCars++;
         Model = model;
         Make = make;
         _isLuxury = luxury;
