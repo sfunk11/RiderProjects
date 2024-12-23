@@ -1,0 +1,14 @@
+/Users/sam/RiderProjects/MyQuizApp/MyQuizApp/bin/Debug/net9.0/MyQuizApp
+/Users/sam/RiderProjects/MyQuizApp/MyQuizApp/bin/Debug/net9.0/MyQuizApp.deps.json
+/Users/sam/RiderProjects/MyQuizApp/MyQuizApp/bin/Debug/net9.0/MyQuizApp.runtimeconfig.json
+/Users/sam/RiderProjects/MyQuizApp/MyQuizApp/bin/Debug/net9.0/MyQuizApp.dll
+/Users/sam/RiderProjects/MyQuizApp/MyQuizApp/bin/Debug/net9.0/MyQuizApp.pdb
+/Users/sam/RiderProjects/MyQuizApp/MyQuizApp/obj/Debug/net9.0/MyQuizApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sam/RiderProjects/MyQuizApp/MyQuizApp/obj/Debug/net9.0/MyQuizApp.AssemblyInfoInputs.cache
+/Users/sam/RiderProjects/MyQuizApp/MyQuizApp/obj/Debug/net9.0/MyQuizApp.AssemblyInfo.cs
+/Users/sam/RiderProjects/MyQuizApp/MyQuizApp/obj/Debug/net9.0/MyQuizApp.csproj.CoreCompileInputs.cache
+/Users/sam/RiderProjects/MyQuizApp/MyQuizApp/obj/Debug/net9.0/MyQuizApp.dll
+/Users/sam/RiderProjects/MyQuizApp/MyQuizApp/obj/Debug/net9.0/refint/MyQuizApp.dll
+/Users/sam/RiderProjects/MyQuizApp/MyQuizApp/obj/Debug/net9.0/MyQuizApp.pdb
+/Users/sam/RiderProjects/MyQuizApp/MyQuizApp/obj/Debug/net9.0/MyQuizApp.genruntimeconfig.cache
+/Users/sam/RiderProjects/MyQuizApp/MyQuizApp/obj/Debug/net9.0/ref/MyQuizApp.dll
