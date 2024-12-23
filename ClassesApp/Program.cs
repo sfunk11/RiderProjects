@@ -10,6 +10,9 @@ class Program
 
         Customer earl = new Customer("Earl");
         Customer bob = new Customer("Bob","3450 Main Street", "34344343");
+        bob.Password = "123ifklda";
+        
+        
         
         audi.Drive();
         bmw.Drive();
