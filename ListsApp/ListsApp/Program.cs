@@ -63,9 +63,15 @@ class Program
             new Product{Name ="Orange", Price = 30}
         };
         productList.Add(new Product{Name ="Berries", Price = 20});
-        
+        List<Product> cheapestProducts = productList.Where(p => p.Price < 30).OrderBy(p => p.Price).ToList();
         Console.WriteLine("Available products:");
         foreach (Product product in productList)
+        {
+            Console.WriteLine($"product name: {product.Name} product price: {product.Price}");
+        }
+        
+        Console.WriteLine("Cheapest Products:");
+        foreach (Product product in cheapestProducts)
         {
             Console.WriteLine($"product name: {product.Name} product price: {product.Price}");
         }
