@@ -1,4 +1,6 @@
-﻿namespace ListsApp;
+﻿using System.Reflection;
+
+namespace ListsApp;
 
 class Program
 {
@@ -51,8 +53,27 @@ class Program
 
         if (hasTen)
         {
-            Console.WriteLine(" \nTen is in  myList.");
+            Console.WriteLine(" \nTen is in myList.");
         }
 
+        List <Product> productList= new List<Product>
+        {
+            new Product{Name ="Apple", Price = 10},
+            new Product{Name ="Banana", Price = 20},
+            new Product{Name ="Orange", Price = 30}
+        };
+        productList.Add(new Product{Name ="Berries", Price = 20});
+        
+        Console.WriteLine("Available products:");
+        foreach (Product product in productList)
+        {
+            Console.WriteLine($"product name: {product.Name} product price: {product.Price}");
+        }
+    }
+
+    public class Product
+    {
+        public string Name { get; set; }
+        public int Price { get; set; }
     }
 }
