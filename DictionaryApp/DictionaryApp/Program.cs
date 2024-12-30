@@ -43,6 +43,10 @@ class Program
              Console.WriteLine("Could not add employee.");
         }
         
+         if (employees.TryGetValue(2, out Employee employee))
+         {
+             Console.WriteLine(employee.Name);
+         }
         
     }
 
