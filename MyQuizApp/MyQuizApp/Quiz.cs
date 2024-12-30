@@ -2,14 +2,38 @@ namespace MyQuizApp;
 
 public class Quiz
 {
-    private Question[] questions;
+    private Question[] _questions;
 
     public Quiz(Question[] questions)
     {
-        this.questions = questions;
+        this._questions = questions;
     }
 
-    public void DisplayQuestion(Question question)
+    private int _score = 0;
+
+    public void StartQuiz()
+    {
+        Console.WriteLine("Welcome to my quiz!");
+        int questionNumber = 1;
+        foreach (Question question in _questions)
+        {
+            Console.WriteLine($"Question {questionNumber++}:");
+            DisplayQuestion(question);
+            int userChoice = GetUserChoice();
+            if(question.IsCorrectAnswer(userChoice))
+            {
+                Console.WriteLine("Correct!");
+                _score++;
+            }else
+            {
+                Console.WriteLine($"Wrong! The correct answer is {question.Answers[question.CorrectAnswerIndex]}    ");
+            }
+        }
+
+        DisplayResults();
+
+    }
+    private void DisplayQuestion(Question question)
     {
         Console.ForegroundColor = ConsoleColor.DarkBlue;
         Console.WriteLine("╔═════════════════════════════════════════════════════════════════════════╗");
@@ -23,15 +47,7 @@ public class Quiz
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine($"    {i + 1}. {question.Answers[i]}");
         }
-
-        if (GetUserChoice() == question.CorrectAnswerIndex)
-        {
-            Console.WriteLine("Correct!");
-        }
-        else
-        {
-            Console.WriteLine("Wrong!");
-        }
+  
     }
 
     private int GetUserChoice()
@@ -45,5 +61,16 @@ public class Quiz
         }
 
         return choice - 1; //Adjust to match index
+    }
+
+    private void DisplayResults()
+    {
+        Console.ForegroundColor = ConsoleColor.DarkBlue;
+        Console.WriteLine("╔═════════════════════════════════════════════════════════════════════════╗");
+        Console.WriteLine("║                                 Results                                 ║");
+        Console.WriteLine("╚═════════════════════════════════════════════════════════════════════════╝");
+        Console.ForegroundColor = ConsoleColor.Cyan;
+
+        Console.WriteLine($"Quiz finished. Your score is {_score} out of {_questions.Length}");
     }
 }
