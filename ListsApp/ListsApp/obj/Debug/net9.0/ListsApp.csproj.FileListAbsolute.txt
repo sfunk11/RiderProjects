@@ -1,0 +1,15 @@
+/Users/sam/RiderProjects/ListsApp/ListsApp/bin/Debug/net9.0/ListsApp
+/Users/sam/RiderProjects/ListsApp/ListsApp/bin/Debug/net9.0/ListsApp.deps.json
+/Users/sam/RiderProjects/ListsApp/ListsApp/bin/Debug/net9.0/ListsApp.runtimeconfig.json
+/Users/sam/RiderProjects/ListsApp/ListsApp/bin/Debug/net9.0/ListsApp.dll
+/Users/sam/RiderProjects/ListsApp/ListsApp/bin/Debug/net9.0/ListsApp.pdb
+/Users/sam/RiderProjects/ListsApp/ListsApp/obj/Debug/net9.0/ListsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sam/RiderProjects/ListsApp/ListsApp/obj/Debug/net9.0/ListsApp.AssemblyInfoInputs.cache
+/Users/sam/RiderProjects/ListsApp/ListsApp/obj/Debug/net9.0/ListsApp.AssemblyInfo.cs
+/Users/sam/RiderProjects/ListsApp/ListsApp/obj/Debug/net9.0/ListsApp.csproj.CoreCompileInputs.cache
+/Users/sam/RiderProjects/ListsApp/ListsApp/obj/Debug/net9.0/ListsApp.sourcelink.json
+/Users/sam/RiderProjects/ListsApp/ListsApp/obj/Debug/net9.0/ListsApp.dll
+/Users/sam/RiderProjects/ListsApp/ListsApp/obj/Debug/net9.0/refint/ListsApp.dll
+/Users/sam/RiderProjects/ListsApp/ListsApp/obj/Debug/net9.0/ListsApp.pdb
+/Users/sam/RiderProjects/ListsApp/ListsApp/obj/Debug/net9.0/ListsApp.genruntimeconfig.cache
+/Users/sam/RiderProjects/ListsApp/ListsApp/obj/Debug/net9.0/ref/ListsApp.dll
