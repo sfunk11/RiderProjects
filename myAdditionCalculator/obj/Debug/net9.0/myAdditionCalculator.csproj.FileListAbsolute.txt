@@ -1,0 +1,15 @@
+/Users/sam/RiderProjects/myAdditionCalculator/bin/Debug/net9.0/myAdditionCalculator
+/Users/sam/RiderProjects/myAdditionCalculator/bin/Debug/net9.0/myAdditionCalculator.deps.json
+/Users/sam/RiderProjects/myAdditionCalculator/bin/Debug/net9.0/myAdditionCalculator.runtimeconfig.json
+/Users/sam/RiderProjects/myAdditionCalculator/bin/Debug/net9.0/myAdditionCalculator.dll
+/Users/sam/RiderProjects/myAdditionCalculator/bin/Debug/net9.0/myAdditionCalculator.pdb
+/Users/sam/RiderProjects/myAdditionCalculator/obj/Debug/net9.0/myAdditionCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sam/RiderProjects/myAdditionCalculator/obj/Debug/net9.0/myAdditionCalculator.AssemblyInfoInputs.cache
+/Users/sam/RiderProjects/myAdditionCalculator/obj/Debug/net9.0/myAdditionCalculator.AssemblyInfo.cs
+/Users/sam/RiderProjects/myAdditionCalculator/obj/Debug/net9.0/myAdditionCalculator.csproj.CoreCompileInputs.cache
+/Users/sam/RiderProjects/myAdditionCalculator/obj/Debug/net9.0/myAdditionCalculator.dll
+/Users/sam/RiderProjects/myAdditionCalculator/obj/Debug/net9.0/refint/myAdditionCalculator.dll
+/Users/sam/RiderProjects/myAdditionCalculator/obj/Debug/net9.0/myAdditionCalculator.pdb
+/Users/sam/RiderProjects/myAdditionCalculator/obj/Debug/net9.0/myAdditionCalculator.genruntimeconfig.cache
+/Users/sam/RiderProjects/myAdditionCalculator/obj/Debug/net9.0/ref/myAdditionCalculator.dll
+/Users/sam/RiderProjects/myAdditionCalculator/obj/Debug/net9.0/myAdditionCalculator.sourcelink.json

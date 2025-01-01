@@ -1,0 +1,15 @@
+/Users/sam/RiderProjects/RocketLanding/bin/Debug/net9.0/RocketLanding
+/Users/sam/RiderProjects/RocketLanding/bin/Debug/net9.0/RocketLanding.deps.json
+/Users/sam/RiderProjects/RocketLanding/bin/Debug/net9.0/RocketLanding.runtimeconfig.json
+/Users/sam/RiderProjects/RocketLanding/bin/Debug/net9.0/RocketLanding.dll
+/Users/sam/RiderProjects/RocketLanding/bin/Debug/net9.0/RocketLanding.pdb
+/Users/sam/RiderProjects/RocketLanding/obj/Debug/net9.0/RocketLanding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sam/RiderProjects/RocketLanding/obj/Debug/net9.0/RocketLanding.AssemblyInfoInputs.cache
+/Users/sam/RiderProjects/RocketLanding/obj/Debug/net9.0/RocketLanding.AssemblyInfo.cs
+/Users/sam/RiderProjects/RocketLanding/obj/Debug/net9.0/RocketLanding.csproj.CoreCompileInputs.cache
+/Users/sam/RiderProjects/RocketLanding/obj/Debug/net9.0/RocketLanding.sourcelink.json
+/Users/sam/RiderProjects/RocketLanding/obj/Debug/net9.0/RocketLanding.dll
+/Users/sam/RiderProjects/RocketLanding/obj/Debug/net9.0/refint/RocketLanding.dll
+/Users/sam/RiderProjects/RocketLanding/obj/Debug/net9.0/RocketLanding.pdb
+/Users/sam/RiderProjects/RocketLanding/obj/Debug/net9.0/RocketLanding.genruntimeconfig.cache
+/Users/sam/RiderProjects/RocketLanding/obj/Debug/net9.0/ref/RocketLanding.dll

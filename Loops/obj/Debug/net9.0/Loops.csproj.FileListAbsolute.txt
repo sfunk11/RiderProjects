@@ -1,0 +1,15 @@
+/Users/sam/RiderProjects/Loops/bin/Debug/net9.0/Loops
+/Users/sam/RiderProjects/Loops/bin/Debug/net9.0/Loops.deps.json
+/Users/sam/RiderProjects/Loops/bin/Debug/net9.0/Loops.runtimeconfig.json
+/Users/sam/RiderProjects/Loops/bin/Debug/net9.0/Loops.dll
+/Users/sam/RiderProjects/Loops/bin/Debug/net9.0/Loops.pdb
+/Users/sam/RiderProjects/Loops/obj/Debug/net9.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sam/RiderProjects/Loops/obj/Debug/net9.0/Loops.AssemblyInfoInputs.cache
+/Users/sam/RiderProjects/Loops/obj/Debug/net9.0/Loops.AssemblyInfo.cs
+/Users/sam/RiderProjects/Loops/obj/Debug/net9.0/Loops.csproj.CoreCompileInputs.cache
+/Users/sam/RiderProjects/Loops/obj/Debug/net9.0/Loops.sourcelink.json
+/Users/sam/RiderProjects/Loops/obj/Debug/net9.0/Loops.dll
+/Users/sam/RiderProjects/Loops/obj/Debug/net9.0/refint/Loops.dll
+/Users/sam/RiderProjects/Loops/obj/Debug/net9.0/Loops.pdb
+/Users/sam/RiderProjects/Loops/obj/Debug/net9.0/Loops.genruntimeconfig.cache
+/Users/sam/RiderProjects/Loops/obj/Debug/net9.0/ref/Loops.dll
