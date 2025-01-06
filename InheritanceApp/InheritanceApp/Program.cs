@@ -61,14 +61,25 @@ class Program
         public string Name { get; private set; }
         public int Age { get; private set; }
 
+        
+     
         public Person(string name, int age)
         {
             Name = name;
             Age = age;
             Console.WriteLine($"Hello, {name} {age}");
         }
-    }
 
+        /// <summary>Adds specified number of years to a Person's age.</summary>
+        /// <param name="years"> Number of years to add to Age.</param>
+        /// <returns>The new age after becoming older.</returns>
+        public int BecomeOlder(int years)
+        { 
+            Age += years;
+            return Age;
+        }
+    }
+    
     public class Employee : Person
     {
         public string JobTitle { get; private set; }
@@ -82,7 +93,8 @@ class Program
         }
     }
 
-    public class Manager : Employee
+    //use "sealed" keywork to prevent Manager from having any derived classes.
+    public sealed class Manager : Employee
     {
         public Manager(string name, int age, string jobTitle, int employeeId) : base(name, age, jobTitle, employeeId)
         {
