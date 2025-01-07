@@ -32,9 +32,36 @@ public struct Point
     }
 }
 
+enum Day
+{
+    Mo,
+    Tu,
+    We,
+    Th,
+    Fr,
+    Sa,
+    Su
+};
+
+enum Month
+{
+    January = 1,
+    February,
+    March,
+    April,
+    May,
+    June,
+    July,
+    August,
+    September,
+    October,
+    November,
+    December
+};
+
 class Program
 {
-    static void Main(string[] args)
+    static void iMain(string[] args)
     {
         Point p1 = new Point(10, 20);
         p1.Display();
@@ -53,5 +80,14 @@ class Program
         // p3.Display();
         // p1.Display();
 
+        Day fr = Day.Fr;
+        Day su = Day.Su;
+
+        Day a = Day.Fr;
+        
+        Console.WriteLine(fr == a);
+        Console.WriteLine((int)Day.Fr);
+        Console.WriteLine((int)Month.February);
+        
     }
 }
