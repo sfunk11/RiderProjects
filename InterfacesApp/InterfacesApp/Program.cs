@@ -19,7 +19,18 @@ class Program
        PaypalProcessor payPalProcessor = new PaypalProcessor();
        paymentService = new PaymentService(payPalProcessor);
        paymentService.ProcessOrderPayment(100.00m);
-       }
+
+       ILogger fileLogger = new FileLogger();
+       fileLogger.Log("Hello World!");
+       
+       ILogger dbLogger = new DatabaseLogger();
+       Application app = new Application(dbLogger);
+       
+       app.DoWork();
+       
+
+    }
+    
 }
 
 //interfaces start with "I"
@@ -93,3 +104,50 @@ public class PaymentService
         _paymentProcessor.ProcessPayment(amount);
     }
 }
+
+public interface ILogger
+    {
+        void Log(string message);
+    }
+
+    public class FileLogger : ILogger
+    {
+        public void Log(string message)
+        {
+            //example for creating / writing to a file on your computer
+            //"@" is used to denote a string literal with no escape chars
+            string directoryPath = @"~/Logs";
+            string filePath = Path.Combine(directoryPath, "log.txt");
+            if (!Directory.Exists(directoryPath))
+            {
+                Directory.CreateDirectory(directoryPath);
+            }
+            File.AppendAllText(filePath,message); 
+        }
+    }
+
+    public class DatabaseLogger : ILogger
+    {
+        public void Log(string message)
+        {
+            Console.WriteLine($"Logging to database: {message}");
+        }
+    }
+
+    public class Application
+    {
+        private readonly ILogger _logger;
+
+        public Application(ILogger logger)
+        {
+            _logger = logger;
+        }
+
+        public void DoWork()
+        {
+            _logger.Log("Doing work");
+            //do all the work.
+            _logger.Log("Work done");
+        }
+
+    }
