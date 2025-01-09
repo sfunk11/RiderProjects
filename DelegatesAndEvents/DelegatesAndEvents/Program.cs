@@ -38,12 +38,42 @@ class Program
         
         logDelegate = myLogger.LogToFile;
         logDelegate("Log to File");
+
+        logDelegate = myLogger.LogToConsole;
+        logDelegate += myLogger.LogToFile;
         
+        //multicast delegates invoked in a try/catch
+        foreach (LogHander logger in logDelegate.GetInvocationList())
+        {
+            try
+            {
+                logger("inside try ");
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+        }
+        
+        logDelegate -= myLogger.LogToConsole;
+        logDelegate("after removing log to console");
+        
+        InvokeSafely(logDelegate, "Hello Delegate!");
+
 
     }
 
     static void ShowMessage(string message)
     {
         Console.WriteLine(message);
+    }
+
+    static void InvokeSafely(LogHander logDelegate, string message)
+    {
+        LogHander logDelegate2 = logDelegate;
+        if (logDelegate2 != null)
+        {
+            logDelegate2(message);
+        }
     }
 }
